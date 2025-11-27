@@ -23,5 +23,4 @@
 - Wi-Fi / Bluetooth 인터페이스로 디바이스 데이터를 전송받아 MariaDB에 자동 기록하는 데이터 파이프라인 구현
 - 모터 PWM 설정값, 초음파 센서 기반 전방 장애물 거리, 엔코더 기반 실제 속도(RPM)를 측정하여 데이터로 저장
 
-
-
+<img width="1070" height="595" alt="스크린샷 2025-11-27 오전 11 42 16" src="https://github.com/user-attachments/assets/dae6b422-00a9-4d3f-8eda-5b1156e2668d" />
